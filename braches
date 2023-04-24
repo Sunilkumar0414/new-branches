@@ -1,0 +1,12 @@
+### hi their we are using branches
+
+ branches is knowinh but a source of work done process in a different path
+
+ if in a company they are so many devops engineer are working in different terminals
+
+ so while using this some time it will colide the code
+  
+ for to avoid this we create different branches by using checkout command
+
+ checkout -b command 
+
